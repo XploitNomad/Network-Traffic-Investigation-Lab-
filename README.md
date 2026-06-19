@@ -110,7 +110,7 @@ Collected relevant indicators and summarized investigation results.
 
 ### Capture Properties
 
-![Capture Properties](Screenshots/Screenshot_01.png)
+![Capture Properties](Screenshots01_FileProperties.png.png)
 
 ### Endpoint Analysis
 
