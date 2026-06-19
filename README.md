@@ -122,7 +122,11 @@ Collected relevant indicators and summarized investigation results.
 
 ### HTTP Traffic Analysis
 
-![HTTP Traffic](Screenshots/Screenshot_04.png)
+![HTTP Traffic](Screenshots06_HTTP_Traffic.png.png)
+
+## DNS Queries
+
+![DNS Queries](Screenshots06_HTTP_Traffic.png.png)
 
 ---
 
