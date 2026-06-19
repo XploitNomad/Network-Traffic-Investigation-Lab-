@@ -118,7 +118,7 @@ Collected relevant indicators and summarized investigation results.
 
 ### Conversation Analysis
 
-![Conversations](Screenshots/Screenshot_03.png)
+![Conversations](Screenshots04_Conversations.png.png)
 
 ### HTTP Traffic Analysis
 
