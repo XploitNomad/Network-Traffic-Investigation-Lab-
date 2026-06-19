@@ -126,7 +126,7 @@ Collected relevant indicators and summarized investigation results.
 
 ## DNS Queries
 
-![DNS Queries](Screenshots06_HTTP_Traffic.png.png)
+![DNS Queries](Screenshots05_DNS_Queries.png.png)
 
 ---
 
