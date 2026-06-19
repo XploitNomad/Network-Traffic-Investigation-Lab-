@@ -114,7 +114,7 @@ Collected relevant indicators and summarized investigation results.
 
 ### Endpoint Analysis
 
-![Endpoints](Screenshots/Screenshot_02.png)
+![Endpoints](Screenshots02_Endpoints.png.png)
 
 ### Conversation Analysis
 
